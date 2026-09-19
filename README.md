@@ -44,6 +44,21 @@ No implementation has been committed yet. This repository currently records the 
 
 Design phase. The simulation model and architecture are being defined before implementation.
 
+
+## Development
+
+Requires Node.js 22 or newer.
+
+Install dependencies and run the test suite:
+
+```sh
+npm ci
+npm test
+```
+
+Tests use Node.js' built-in test runner. CI runs the test suite on Linux,
+Windows, and macOS using the supported Node.js versions.
+
 ## License
 
 Copyright © 2026 Technikhighknee. All rights reserved except for the permissions explicitly granted in [LICENSE](LICENSE).
