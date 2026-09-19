@@ -43,3 +43,15 @@ No implementation has been committed yet. This repository currently records the 
 ## Status
 
 Design phase. The simulation model and architecture are being defined before implementation.
+
+## License
+
+Copyright © 2026 Technikhighknee. All rights reserved except for the permissions explicitly granted in [LICENSE](LICENSE).
+
+1400 Terminal Game is proprietary and source-available, not open source.
+
+The version distributed under the current license may be played for personal use, privately modified, and modded. Community mods may be distributed under the conditions in the license, and gameplay videos, streams, screenshots, and reviews are permitted.
+
+Future versions may be released under different terms, including as paid or closed-source software. Rights granted to an existing version remain governed by the license distributed with that version.
+
+Contributions to the main Project are welcome under the terms in [CONTRIBUTING.md](CONTRIBUTING.md).
